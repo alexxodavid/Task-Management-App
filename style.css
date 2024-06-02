@@ -13,7 +13,7 @@ body {
   width: 80%;
   max-width: 600px;
   padding: 20px;
-  background-color: white;
+  background-color: #f4f4f4;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
@@ -37,7 +37,7 @@ button {
 }
 
 button:hover {
-  background-color: #005bb5;
+  background-color: #000000;
 }
 
 .task-list {
